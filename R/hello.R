@@ -14,6 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("This is my first R package!")
+  print("This is my first R package!!!!!")
 }
 
